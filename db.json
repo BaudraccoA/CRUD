@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Pedro Todd",
+      "email": "todd@gmail.com",
+      "id": 1
+    },
+    {
+      "nombre": "Juan Cruz",
+      "email": "juanC@gmail.com",
+      "id": "69da119e-f029-4696-a56e-237d39bf8cdd"
+    },
+    {
+      "nombre": "Andrea",
+      "email": "andrea@gmail.com",
+      "id": "8c214535-5998-45d5-a6cb-349c7822dd0a"
+    }
+  ]
+}
